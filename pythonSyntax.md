@@ -199,3 +199,4 @@ Helpful links
 =====
 Lists a lot of Python syntax, starting from most common to least common: https://learnxinyminutes.com/docs/python3/
 
+Comparison between C++ and Python syntax, might be useful: http://jasonpark.me/DuoCoder/public/learn.html?lang_from=cpp&lang_to=py
